@@ -32,3 +32,4 @@ This app can be extended by adding more features or rename the variables to fit 
 
 -   Adding SMS notifications to patients and doctors (AWS SNS).
 -   Allow doctors to export appointment time to calendar.
+-   Shahad Aljughayman
